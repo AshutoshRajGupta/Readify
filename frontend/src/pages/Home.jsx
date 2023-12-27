@@ -33,11 +33,6 @@ const Home = () => {
     <div className="p-4">
       <h1 className="text-3xl font-bold text-blue-900  text-center mt-6 mb-12">
         WELCOME TO BOOKSTORE - A CRUD OPERATION WEBSITE
-        {/* <img
-          src={img1}
-          alt="Bookstore Image"
-          className="mx-auto my-auto mt-3 w-60 h-25"
-        /> */}
       </h1>
       <div className="flex justify-center items-center gap-x-4">
         <button
