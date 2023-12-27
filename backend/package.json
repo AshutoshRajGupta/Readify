@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev":"npm run start"
+    "dev":"nodemon index.js"
   },
   "keywords": [],
   "author": "MamadTaheri68",
