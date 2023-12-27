@@ -1,15 +1,21 @@
 ## READIFY
 
 #### Readify is a dynamic web application developed using the MERN stack.
+
 #### Its allowing users to seamlessly Add, Edit, Delete, and View details of their favorite books.
-#### Its allowing users to seamlessly Add, Edit, Delete, and View details of their favorite books.
+
 #### Organize your literary collection with ease on this user-friendly platform.
 
 ## TECHNOLOGIES USED
+
 #### 1.REACTJS
+
 #### 2.TAILWIND CSS
+
 #### 3.NODEJS
+
 #### 4.EXPRESSJS
+
 #### 5.MONGODB
 
 <img width="950" alt="image" src="https://github.com/AshutoshRajGupta/Readify/assets/89141709/2c734935-3ae9-47b3-a266-b41fbdf0887a">
